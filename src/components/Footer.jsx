@@ -2,7 +2,7 @@ import logoText from "../assets/logo-text.png";
 
 const Footer = () => {
   return (
-    <footer className="border-t border-gray-100 bg-white pt-16 pb-12">
+    <footer className="border-t border-gray-100 bg-white pt-16 pb-14">
       <div className="max-w-7xl mx-auto px-6">
         {/* Top Grid Section */}
         <div className="grid grid-cols-1 md:grid-cols-5 gap-10 pb-16">
