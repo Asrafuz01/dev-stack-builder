@@ -77,7 +77,7 @@ const Technologies = () => {
         <section className="py-18">
             <ToastContainer position="top-right" autoClose={3000} />
             <div className="max-w-7xl mx-auto px-4">
-                <div className="mb-10">
+                <div className="mb-12">
                     <h1 className="text-3xl md:text-4xl font-extrabold text-gray-900">
                         Explore the <span className="text-brand-gradient">Technologies</span>
                     </h1>
