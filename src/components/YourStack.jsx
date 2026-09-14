@@ -3,7 +3,7 @@ const YourStack = ({ stack, onRemove, onRemoveAll }) => {
         <div className="bg-white border border-gray-200 rounded-2xl p-6 shadow-sm flex flex-col justify-between h-fit min-h-[350px]">
             <div>
                 {/* Header */}
-                <div className="mb-6">
+                <div className="mb-7">
                     <h2 className="text-xl font-bold text-gray-900">
                         Your Stack
                     </h2>
