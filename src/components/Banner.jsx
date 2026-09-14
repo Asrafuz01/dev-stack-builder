@@ -39,7 +39,7 @@ const Banner = () => {
                     <img
                         src={BannerImage}
                         alt="Development Stack"
-                        className="w-80"
+                        className="w-96"
                     />
                 </div>
 
