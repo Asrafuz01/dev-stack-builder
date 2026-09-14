@@ -74,7 +74,7 @@ const Technologies = () => {
     }
 
     return (
-        <section className="py-16">
+        <section className="py-18">
             <ToastContainer position="top-right" autoClose={3000} />
             <div className="max-w-7xl mx-auto px-4">
                 <div className="mb-10">
