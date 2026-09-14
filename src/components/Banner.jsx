@@ -16,7 +16,7 @@ const Banner = () => {
                         </span>
                     </h1>
 
-                    <p className="mt-5 text-gray-500 leading-6 max-w-lg">
+                    <p className="mt-6 text-gray-500 leading-6 max-w-lg">
                         Explore frontend, backend, database, and tooling options,
                         compare them side by side, and put together the stack that
                         fits your next project.
